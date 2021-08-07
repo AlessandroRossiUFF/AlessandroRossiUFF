@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AlessandroRossiUFF/AlessandroRossiUFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,19 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi 👋
+### Olá 👋
+### Hello 👋
 Olá, estou cursando o quarto período de Ciência da Computação na Universidade Federal Fluminense (UFF) e esse README ainda não está completo, terminarei depois rsrs
 
 Hi, I'm studying the fourth period of Computer Science at the Fluminense Federal University (UFF) and this README is not complete yet, I'll finish later
 
 - 🔭 Atualmente, além das tarefas da faculdade também estou estudando desenvolvimento web e ciência de dados.
 - Currently, in addition to college assignments I am also studying web development and data science..
-- 
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
