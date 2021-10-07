@@ -19,7 +19,7 @@ Olá, estou cursando o quarto período de Ciência da Computação na Universida
 
 Hi, I'm studying the fourth period of Computer Science at the Fluminense Federal University (UFF) and this README is not complete yet, I'll finish later
 
-- 🔭 Atualmente, além das tarefas da faculdade também estou estudando desenvolvimento web e ciência de dados.
+- 🔭 Atualmente, além das tarefas da faculdade, também estou estudando desenvolvimento web e ciência de dados.
 - Currently, in addition to college assignments I am also studying web development and data science..
 <!--
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
