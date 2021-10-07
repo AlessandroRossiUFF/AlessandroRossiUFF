@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Olá 👋
 ### Hello 👋
-Olá, estou cursando o quarto período de Ciência da Computação na Universidade Federal Fluminense (UFF) e esse README ainda não está completo, terminarei depois rsrs
+Olá, estou cursando o terceiro período de Ciência da Computação na Universidade Federal Fluminense (UFF) e esse README ainda não está completo, terminarei depois rsrs
 
 Hi, I'm studying the fourth period of Computer Science at the Fluminense Federal University (UFF) and this README is not complete yet, I'll finish later
 
